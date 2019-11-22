@@ -1,0 +1,14 @@
+C:\Users\802354\source\repos\bloodbank\bloodbank\bin\Debug\netcoreapp2.1\bloodbank.deps.json
+C:\Users\802354\source\repos\bloodbank\bloodbank\bin\Debug\netcoreapp2.1\bloodbank.runtimeconfig.json
+C:\Users\802354\source\repos\bloodbank\bloodbank\bin\Debug\netcoreapp2.1\bloodbank.runtimeconfig.dev.json
+C:\Users\802354\source\repos\bloodbank\bloodbank\bin\Debug\netcoreapp2.1\bloodbank.dll
+C:\Users\802354\source\repos\bloodbank\bloodbank\bin\Debug\netcoreapp2.1\bloodbank.pdb
+C:\Users\802354\source\repos\bloodbank\bloodbank\obj\Debug\netcoreapp2.1\bloodbank.csprojAssemblyReference.cache
+C:\Users\802354\source\repos\bloodbank\bloodbank\obj\Debug\netcoreapp2.1\bloodbank.csproj.CoreCompileInputs.cache
+C:\Users\802354\source\repos\bloodbank\bloodbank\obj\Debug\netcoreapp2.1\bloodbank.RazorAssemblyInfo.cache
+C:\Users\802354\source\repos\bloodbank\bloodbank\obj\Debug\netcoreapp2.1\bloodbank.RazorAssemblyInfo.cs
+C:\Users\802354\source\repos\bloodbank\bloodbank\obj\Debug\netcoreapp2.1\bloodbank.AssemblyInfoInputs.cache
+C:\Users\802354\source\repos\bloodbank\bloodbank\obj\Debug\netcoreapp2.1\bloodbank.AssemblyInfo.cs
+C:\Users\802354\source\repos\bloodbank\bloodbank\obj\Debug\netcoreapp2.1\bloodbank.RazorTargetAssemblyInfo.cache
+C:\Users\802354\source\repos\bloodbank\bloodbank\obj\Debug\netcoreapp2.1\bloodbank.dll
+C:\Users\802354\source\repos\bloodbank\bloodbank\obj\Debug\netcoreapp2.1\bloodbank.pdb

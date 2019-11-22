@@ -1,0 +1,14 @@
+C:\Users\802354\source\repos\blood_reg\blood_reg\bin\Debug\netcoreapp2.1\blood_reg.deps.json
+C:\Users\802354\source\repos\blood_reg\blood_reg\bin\Debug\netcoreapp2.1\blood_reg.runtimeconfig.json
+C:\Users\802354\source\repos\blood_reg\blood_reg\bin\Debug\netcoreapp2.1\blood_reg.runtimeconfig.dev.json
+C:\Users\802354\source\repos\blood_reg\blood_reg\bin\Debug\netcoreapp2.1\blood_reg.dll
+C:\Users\802354\source\repos\blood_reg\blood_reg\bin\Debug\netcoreapp2.1\blood_reg.pdb
+C:\Users\802354\source\repos\blood_reg\blood_reg\obj\Debug\netcoreapp2.1\blood_reg.csprojAssemblyReference.cache
+C:\Users\802354\source\repos\blood_reg\blood_reg\obj\Debug\netcoreapp2.1\blood_reg.csproj.CoreCompileInputs.cache
+C:\Users\802354\source\repos\blood_reg\blood_reg\obj\Debug\netcoreapp2.1\blood_reg.RazorAssemblyInfo.cache
+C:\Users\802354\source\repos\blood_reg\blood_reg\obj\Debug\netcoreapp2.1\blood_reg.RazorAssemblyInfo.cs
+C:\Users\802354\source\repos\blood_reg\blood_reg\obj\Debug\netcoreapp2.1\blood_reg.AssemblyInfoInputs.cache
+C:\Users\802354\source\repos\blood_reg\blood_reg\obj\Debug\netcoreapp2.1\blood_reg.AssemblyInfo.cs
+C:\Users\802354\source\repos\blood_reg\blood_reg\obj\Debug\netcoreapp2.1\blood_reg.RazorTargetAssemblyInfo.cache
+C:\Users\802354\source\repos\blood_reg\blood_reg\obj\Debug\netcoreapp2.1\blood_reg.dll
+C:\Users\802354\source\repos\blood_reg\blood_reg\obj\Debug\netcoreapp2.1\blood_reg.pdb

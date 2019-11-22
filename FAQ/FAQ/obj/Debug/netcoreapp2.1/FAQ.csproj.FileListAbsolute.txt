@@ -1,0 +1,14 @@
+C:\Users\802354\source\repos\FAQ\FAQ\bin\Debug\netcoreapp2.1\FAQ.deps.json
+C:\Users\802354\source\repos\FAQ\FAQ\bin\Debug\netcoreapp2.1\FAQ.runtimeconfig.json
+C:\Users\802354\source\repos\FAQ\FAQ\bin\Debug\netcoreapp2.1\FAQ.runtimeconfig.dev.json
+C:\Users\802354\source\repos\FAQ\FAQ\bin\Debug\netcoreapp2.1\FAQ.dll
+C:\Users\802354\source\repos\FAQ\FAQ\bin\Debug\netcoreapp2.1\FAQ.pdb
+C:\Users\802354\source\repos\FAQ\FAQ\obj\Debug\netcoreapp2.1\FAQ.csprojAssemblyReference.cache
+C:\Users\802354\source\repos\FAQ\FAQ\obj\Debug\netcoreapp2.1\FAQ.csproj.CoreCompileInputs.cache
+C:\Users\802354\source\repos\FAQ\FAQ\obj\Debug\netcoreapp2.1\FAQ.RazorAssemblyInfo.cache
+C:\Users\802354\source\repos\FAQ\FAQ\obj\Debug\netcoreapp2.1\FAQ.RazorAssemblyInfo.cs
+C:\Users\802354\source\repos\FAQ\FAQ\obj\Debug\netcoreapp2.1\FAQ.AssemblyInfoInputs.cache
+C:\Users\802354\source\repos\FAQ\FAQ\obj\Debug\netcoreapp2.1\FAQ.AssemblyInfo.cs
+C:\Users\802354\source\repos\FAQ\FAQ\obj\Debug\netcoreapp2.1\FAQ.RazorTargetAssemblyInfo.cache
+C:\Users\802354\source\repos\FAQ\FAQ\obj\Debug\netcoreapp2.1\FAQ.dll
+C:\Users\802354\source\repos\FAQ\FAQ\obj\Debug\netcoreapp2.1\FAQ.pdb

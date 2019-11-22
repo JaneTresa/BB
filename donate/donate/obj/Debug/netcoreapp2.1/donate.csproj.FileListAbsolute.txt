@@ -1,0 +1,14 @@
+C:\Users\802354\source\repos\donate\donate\bin\Debug\netcoreapp2.1\donate.deps.json
+C:\Users\802354\source\repos\donate\donate\bin\Debug\netcoreapp2.1\donate.runtimeconfig.json
+C:\Users\802354\source\repos\donate\donate\bin\Debug\netcoreapp2.1\donate.runtimeconfig.dev.json
+C:\Users\802354\source\repos\donate\donate\bin\Debug\netcoreapp2.1\donate.dll
+C:\Users\802354\source\repos\donate\donate\bin\Debug\netcoreapp2.1\donate.pdb
+C:\Users\802354\source\repos\donate\donate\obj\Debug\netcoreapp2.1\donate.csprojAssemblyReference.cache
+C:\Users\802354\source\repos\donate\donate\obj\Debug\netcoreapp2.1\donate.csproj.CoreCompileInputs.cache
+C:\Users\802354\source\repos\donate\donate\obj\Debug\netcoreapp2.1\donate.RazorAssemblyInfo.cache
+C:\Users\802354\source\repos\donate\donate\obj\Debug\netcoreapp2.1\donate.RazorAssemblyInfo.cs
+C:\Users\802354\source\repos\donate\donate\obj\Debug\netcoreapp2.1\donate.AssemblyInfoInputs.cache
+C:\Users\802354\source\repos\donate\donate\obj\Debug\netcoreapp2.1\donate.AssemblyInfo.cs
+C:\Users\802354\source\repos\donate\donate\obj\Debug\netcoreapp2.1\donate.RazorTargetAssemblyInfo.cache
+C:\Users\802354\source\repos\donate\donate\obj\Debug\netcoreapp2.1\donate.dll
+C:\Users\802354\source\repos\donate\donate\obj\Debug\netcoreapp2.1\donate.pdb

@@ -1,0 +1,14 @@
+C:\Users\802354\source\repos\blood_req\blood_req\bin\Debug\netcoreapp2.1\blood_req.deps.json
+C:\Users\802354\source\repos\blood_req\blood_req\bin\Debug\netcoreapp2.1\blood_req.runtimeconfig.json
+C:\Users\802354\source\repos\blood_req\blood_req\bin\Debug\netcoreapp2.1\blood_req.runtimeconfig.dev.json
+C:\Users\802354\source\repos\blood_req\blood_req\bin\Debug\netcoreapp2.1\blood_req.dll
+C:\Users\802354\source\repos\blood_req\blood_req\bin\Debug\netcoreapp2.1\blood_req.pdb
+C:\Users\802354\source\repos\blood_req\blood_req\obj\Debug\netcoreapp2.1\blood_req.csproj.CoreCompileInputs.cache
+C:\Users\802354\source\repos\blood_req\blood_req\obj\Debug\netcoreapp2.1\blood_req.RazorAssemblyInfo.cache
+C:\Users\802354\source\repos\blood_req\blood_req\obj\Debug\netcoreapp2.1\blood_req.RazorAssemblyInfo.cs
+C:\Users\802354\source\repos\blood_req\blood_req\obj\Debug\netcoreapp2.1\blood_req.AssemblyInfoInputs.cache
+C:\Users\802354\source\repos\blood_req\blood_req\obj\Debug\netcoreapp2.1\blood_req.AssemblyInfo.cs
+C:\Users\802354\source\repos\blood_req\blood_req\obj\Debug\netcoreapp2.1\blood_req.RazorTargetAssemblyInfo.cache
+C:\Users\802354\source\repos\blood_req\blood_req\obj\Debug\netcoreapp2.1\blood_req.dll
+C:\Users\802354\source\repos\blood_req\blood_req\obj\Debug\netcoreapp2.1\blood_req.pdb
+C:\Users\802354\source\repos\blood_req\blood_req\obj\Debug\netcoreapp2.1\blood_req.csprojAssemblyReference.cache
